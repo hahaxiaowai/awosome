@@ -4,6 +4,8 @@
 ## 库
 ### 1. [html-to-image](https://github.com/bubkoo/html-to-image)
 与[html2canvas](https://github.com/niklasvh/html2canvas)相似，都可作为用来实现网页截图，两者我都用过，各有优劣。
+### 2. [vuepress](https://v2.vuepress.vuejs.org/zh/)
+vuepress已经十分流行，这里我主要是推荐一个博客主题，[vueoress-theme-reco](https://vuepress-theme-reco.recoluan.com/)。个人觉得是vue开发者第一选择的博客主题，有自己的的社区，而且还在开发新版本，是一个非常好的选择。
 ## 线上工具
 
 ## 有意思的网站/App/插件
